@@ -94,7 +94,8 @@ http://localhost:8080/swagger-ui/index.html
 
 ### Swagger Screenshot
 
-![Swagger UI](screenshots/swagger-ui.png)
+
+<img width="1600" height="849" alt="image" src="https://github.com/user-attachments/assets/38688369-8dd0-4485-bbef-fb5b8da1aeda" />
 
 ---
 
@@ -108,7 +109,7 @@ http://localhost:8080/console
 
 ### Database Screenshot
 
-![H2 Database](screenshots/database.png)
+<img width="1600" height="851" alt="image" src="https://github.com/user-attachments/assets/4d3bd1f6-d548-404e-b069-92637bdd2cc9" />
 
 ---
 
